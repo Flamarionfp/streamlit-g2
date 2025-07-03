@@ -2,6 +2,8 @@
 
 Autores: `Flamarion Fagundes`, `Lucas Fetter` e `Vitor Edson`
 
+https://avanco-ia-empresas.streamlit.app/
+
 Este projeto é um dashboard interativo desenvolvido com Streamlit, que apresenta o avanço da Inteligência Artificial em empresas brasileiras de 2015 a 2024.
 
 Projeto para a disciplina de Ciência de Dados, Faccat, Taquara, RS.
