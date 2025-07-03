@@ -1,0 +1,251 @@
+empresa,setor,pais_sede,ano,investimento_ia_usd_milhoes,principais_usos_ia,impacto_operacional,crescimento_lucro_%,nota_inovacao
+Google (Alphabet),Tecnologia,EUA,2015,2253.7,Robótica,Alto,10.96,8.9
+Google (Alphabet),Tecnologia,EUA,2016,1110.28,Modelos de linguagem,Médio,5.94,6.7
+Google (Alphabet),Tecnologia,EUA,2017,2466.89,Nuvem com IA,Alto,12.53,9.5
+Google (Alphabet),Tecnologia,EUA,2018,1981.45,Robótica,Médio,5.75,7.3
+Google (Alphabet),Tecnologia,EUA,2019,1340.58,Robótica,Baixo,-0.59,5.6
+Google (Alphabet),Tecnologia,EUA,2020,2371.72,Nuvem com IA,Alto,5.26,8.9
+Google (Alphabet),Tecnologia,EUA,2021,674.51,Nuvem com IA,Alto,10.97,9.7
+Google (Alphabet),Tecnologia,EUA,2022,1727.28,Robótica,Médio,3.67,6.3
+Google (Alphabet),Tecnologia,EUA,2023,1689.8,Nuvem com IA,Alto,6.5,9.5
+Google (Alphabet),Tecnologia,EUA,2024,1103.28,Robótica,Alto,12.28,9.1
+Microsoft,Tecnologia,EUA,2015,1440.03,Robótica,Médio,2.3,6.5
+Microsoft,Tecnologia,EUA,2016,1469.37,Nuvem com IA,Médio,4.44,6.4
+Microsoft,Tecnologia,EUA,2017,507.2,Modelos de linguagem,Baixo,0.58,5.2
+Microsoft,Tecnologia,EUA,2018,1527.04,Modelos de linguagem,Alto,8.94,8.9
+Microsoft,Tecnologia,EUA,2019,1034.23,Robótica,Alto,9.44,8.6
+Microsoft,Tecnologia,EUA,2020,509.44,Modelos de linguagem,Médio,4.25,7.9
+Microsoft,Tecnologia,EUA,2021,1478.9,Nuvem com IA,Alto,10.6,8.3
+Microsoft,Tecnologia,EUA,2022,2012.97,Modelos de linguagem,Alto,8.53,9.7
+Microsoft,Tecnologia,EUA,2023,1133.53,Modelos de linguagem,Alto,6.97,9.9
+Microsoft,Tecnologia,EUA,2024,2346.35,Robótica,Baixo,2.82,5.4
+Apple,Tecnologia,EUA,2015,1249.79,Robótica,Alto,12.63,8.2
+Apple,Tecnologia,EUA,2016,1370.86,Robótica,Alto,13.1,8.8
+Apple,Tecnologia,EUA,2017,1666.44,Nuvem com IA,Alto,13.99,8.9
+Apple,Tecnologia,EUA,2018,2463.56,Nuvem com IA,Alto,9.68,9.9
+Apple,Tecnologia,EUA,2019,1175.04,Robótica,Alto,7.63,8.9
+Apple,Tecnologia,EUA,2020,2226.82,Modelos de linguagem,Alto,10.13,8.1
+Apple,Tecnologia,EUA,2021,847.82,Modelos de linguagem,Baixo,-0.36,4.3
+Apple,Tecnologia,EUA,2022,1429.34,Nuvem com IA,Médio,4.91,6.1
+Apple,Tecnologia,EUA,2023,976.22,Robótica,Alto,5.03,8.6
+Apple,Tecnologia,EUA,2024,2274.49,Robótica,Baixo,0.14,4.8
+Amazon,Varejo Online,EUA,2015,464.08,Recomendações inteligentes,Médio,2.81,6.4
+Amazon,Varejo Online,EUA,2016,234.14,Recomendações inteligentes,Alto,6.34,8.7
+Amazon,Varejo Online,EUA,2017,145.81,Recomendações inteligentes,Alto,5.22,9.3
+Amazon,Varejo Online,EUA,2018,685.23,Recomendações inteligentes,Alto,14.21,8.1
+Amazon,Varejo Online,EUA,2019,604.18,Logística preditiva,Alto,13.65,8.7
+Amazon,Varejo Online,EUA,2020,151.9,Logística preditiva,Alto,11.92,8.7
+Amazon,Varejo Online,EUA,2021,487.55,Logística preditiva,Alto,8.85,8.3
+Amazon,Varejo Online,EUA,2022,617.01,Logística preditiva,Médio,6.14,6.1
+Amazon,Varejo Online,EUA,2023,176.72,Logística preditiva,Alto,12.3,8.1
+Amazon,Varejo Online,EUA,2024,333.78,Recomendações inteligentes,Alto,12.37,8.6
+Meta (Facebook),Tecnologia,EUA,2015,723.22,Robótica,Alto,8.28,9.7
+Meta (Facebook),Tecnologia,EUA,2016,1829.15,Nuvem com IA,Médio,2.88,7.2
+Meta (Facebook),Tecnologia,EUA,2017,608.25,Robótica,Alto,7.91,9.4
+Meta (Facebook),Tecnologia,EUA,2018,1043.51,Robótica,Alto,7.7,9.6
+Meta (Facebook),Tecnologia,EUA,2019,1523.52,Robótica,Médio,4.8,7.5
+Meta (Facebook),Tecnologia,EUA,2020,2224.72,Nuvem com IA,Médio,6.57,6.9
+Meta (Facebook),Tecnologia,EUA,2021,1162.48,Robótica,Alto,14.79,9.8
+Meta (Facebook),Tecnologia,EUA,2022,2118.45,Nuvem com IA,Alto,6.09,9.5
+Meta (Facebook),Tecnologia,EUA,2023,1279.23,Nuvem com IA,Alto,10.98,8.9
+Meta (Facebook),Tecnologia,EUA,2024,751.52,Robótica,Baixo,0.07,4.8
+NVIDIA,Semicondutores,EUA,2015,895.36,IA embarcada,Alto,8.78,9.5
+NVIDIA,Semicondutores,EUA,2016,608.42,Otimização de chips,Alto,14.42,9.2
+NVIDIA,Semicondutores,EUA,2017,523.92,IA embarcada,Médio,3.42,7.9
+NVIDIA,Semicondutores,EUA,2018,565.93,IA embarcada,Médio,5.54,6.3
+NVIDIA,Semicondutores,EUA,2019,1116.08,IA embarcada,Médio,2.24,6.5
+NVIDIA,Semicondutores,EUA,2020,484.32,IA embarcada,Alto,5.68,9.6
+NVIDIA,Semicondutores,EUA,2021,586.01,Otimização de chips,Baixo,0.4,5.5
+NVIDIA,Semicondutores,EUA,2022,363.12,Otimização de chips,Alto,6.3,8.5
+NVIDIA,Semicondutores,EUA,2023,632.56,IA embarcada,Alto,7.78,8.7
+NVIDIA,Semicondutores,EUA,2024,997.79,IA embarcada,Alto,6.41,8.3
+Tesla,Automotivo,EUA,2015,276.37,Carros autônomos,Médio,6.11,7.0
+Tesla,Automotivo,EUA,2016,722.88,Carros autônomos,Médio,2.85,6.1
+Tesla,Automotivo,EUA,2017,397.03,Carros autônomos,Médio,5.85,7.0
+Tesla,Automotivo,EUA,2018,755.47,Carros autônomos,Alto,7.55,9.6
+Tesla,Automotivo,EUA,2019,693.4,Carros autônomos,Alto,11.04,8.5
+Tesla,Automotivo,EUA,2020,632.58,Manutenção preditiva,Médio,2.54,6.2
+Tesla,Automotivo,EUA,2021,559.79,Carros autônomos,Baixo,0.71,4.7
+Tesla,Automotivo,EUA,2022,331.91,Manutenção preditiva,Alto,9.82,8.4
+Tesla,Automotivo,EUA,2023,445.09,Carros autônomos,Alto,9.32,9.8
+Tesla,Automotivo,EUA,2024,363.39,Carros autônomos,Alto,13.14,8.4
+Netflix,Entretenimento,EUA,2015,146.36,Sugestões personalizadas,Médio,4.99,6.1
+Netflix,Entretenimento,EUA,2016,339.1,Sugestões personalizadas,Alto,8.2,9.5
+Netflix,Entretenimento,EUA,2017,87.04,Criação de conteúdo,Médio,2.37,7.9
+Netflix,Entretenimento,EUA,2018,362.88,Criação de conteúdo,Alto,14.71,9.3
+Netflix,Entretenimento,EUA,2019,144.82,Criação de conteúdo,Alto,13.72,8.6
+Netflix,Entretenimento,EUA,2020,123.31,Criação de conteúdo,Médio,3.69,7.6
+Netflix,Entretenimento,EUA,2021,379.48,Sugestões personalizadas,Alto,8.21,9.6
+Netflix,Entretenimento,EUA,2022,211.39,Sugestões personalizadas,Baixo,1.65,4.3
+Netflix,Entretenimento,EUA,2023,167.75,Sugestões personalizadas,Alto,10.68,9.9
+Netflix,Entretenimento,EUA,2024,90.7,Criação de conteúdo,Alto,14.15,8.6
+Samsung,Eletrônicos,Coreia do Sul,2015,518.22,Visão computacional,Alto,13.15,9.0
+Samsung,Eletrônicos,Coreia do Sul,2016,569.19,Visão computacional,Alto,7.61,9.9
+Samsung,Eletrônicos,Coreia do Sul,2017,711.38,Visão computacional,Alto,13.97,9.9
+Samsung,Eletrônicos,Coreia do Sul,2018,249.55,Assistente inteligente,Alto,8.23,9.5
+Samsung,Eletrônicos,Coreia do Sul,2019,418.58,Assistente inteligente,Médio,3.8,6.9
+Samsung,Eletrônicos,Coreia do Sul,2020,642.25,Assistente inteligente,Médio,4.6,7.6
+Samsung,Eletrônicos,Coreia do Sul,2021,639.65,Visão computacional,Médio,4.15,6.7
+Samsung,Eletrônicos,Coreia do Sul,2022,170.53,Assistente inteligente,Médio,5.76,6.7
+Samsung,Eletrônicos,Coreia do Sul,2023,564.21,Assistente inteligente,Alto,8.9,9.4
+Samsung,Eletrônicos,Coreia do Sul,2024,676.67,Visão computacional,Alto,9.25,8.5
+Tencent,Tecnologia,China,2015,2264.65,Modelos de linguagem,Alto,7.47,9.1
+Tencent,Tecnologia,China,2016,620.9,Robótica,Alto,14.32,9.0
+Tencent,Tecnologia,China,2017,1921.84,Robótica,Médio,4.85,7.8
+Tencent,Tecnologia,China,2018,1821.89,Modelos de linguagem,Alto,10.02,8.9
+Tencent,Tecnologia,China,2019,709.77,Modelos de linguagem,Alto,11.41,9.2
+Tencent,Tecnologia,China,2020,2277.66,Robótica,Alto,10.88,9.4
+Tencent,Tecnologia,China,2021,1095.93,Nuvem com IA,Médio,6.88,7.6
+Tencent,Tecnologia,China,2022,904.47,Robótica,Médio,2.61,6.5
+Tencent,Tecnologia,China,2023,1607.18,Nuvem com IA,Médio,4.21,6.2
+Tencent,Tecnologia,China,2024,1981.16,Nuvem com IA,Alto,7.7,8.5
+Alibaba,Varejo Online,China,2015,756.29,Logística preditiva,Alto,6.61,8.5
+Alibaba,Varejo Online,China,2016,238.42,Recomendações inteligentes,Médio,3.71,7.5
+Alibaba,Varejo Online,China,2017,400.82,Recomendações inteligentes,Médio,4.06,7.2
+Alibaba,Varejo Online,China,2018,678.13,Recomendações inteligentes,Alto,8.08,8.3
+Alibaba,Varejo Online,China,2019,474.23,Logística preditiva,Alto,13.39,9.7
+Alibaba,Varejo Online,China,2020,449.89,Recomendações inteligentes,Alto,9.99,9.6
+Alibaba,Varejo Online,China,2021,319.1,Logística preditiva,Alto,13.08,8.7
+Alibaba,Varejo Online,China,2022,123.27,Recomendações inteligentes,Alto,9.72,9.6
+Alibaba,Varejo Online,China,2023,118.45,Logística preditiva,Alto,11.25,9.5
+Alibaba,Varejo Online,China,2024,483.87,Logística preditiva,Alto,9.78,9.6
+IBM,Tecnologia,EUA,2015,2281.77,Robótica,Médio,4.63,6.1
+IBM,Tecnologia,EUA,2016,2223.33,Nuvem com IA,Médio,4.62,6.5
+IBM,Tecnologia,EUA,2017,1145.01,Modelos de linguagem,Médio,4.56,6.6
+IBM,Tecnologia,EUA,2018,2403.41,Nuvem com IA,Médio,6.87,7.2
+IBM,Tecnologia,EUA,2019,1643.62,Robótica,Alto,7.88,9.5
+IBM,Tecnologia,EUA,2020,685.67,Robótica,Alto,5.43,10.0
+IBM,Tecnologia,EUA,2021,2497.91,Robótica,Alto,9.46,8.6
+IBM,Tecnologia,EUA,2022,1779.03,Modelos de linguagem,Médio,4.86,6.5
+IBM,Tecnologia,EUA,2023,2365.7,Robótica,Médio,4.97,6.9
+IBM,Tecnologia,EUA,2024,1301.77,Robótica,Alto,12.18,9.4
+Intel,Semicondutores,EUA,2015,1221.94,Otimização de chips,Alto,12.14,8.1
+Intel,Semicondutores,EUA,2016,330.53,Otimização de chips,Médio,5.67,7.1
+Intel,Semicondutores,EUA,2017,995.35,IA embarcada,Alto,5.78,9.2
+Intel,Semicondutores,EUA,2018,1079.34,Otimização de chips,Médio,4.1,7.1
+Intel,Semicondutores,EUA,2019,365.28,IA embarcada,Alto,7.89,9.2
+Intel,Semicondutores,EUA,2020,568.77,IA embarcada,Alto,7.54,8.3
+Intel,Semicondutores,EUA,2021,463.82,IA embarcada,Médio,6.48,6.9
+Intel,Semicondutores,EUA,2022,1006.18,IA embarcada,Alto,14.1,8.5
+Intel,Semicondutores,EUA,2023,1291.0,Otimização de chips,Médio,6.11,7.2
+Intel,Semicondutores,EUA,2024,375.21,IA embarcada,Baixo,2.75,5.0
+Baidu,Tecnologia,China,2015,1807.2,Modelos de linguagem,Alto,12.04,9.7
+Baidu,Tecnologia,China,2016,1471.6,Modelos de linguagem,Médio,6.19,6.9
+Baidu,Tecnologia,China,2017,2091.46,Modelos de linguagem,Médio,2.1,7.7
+Baidu,Tecnologia,China,2018,2251.81,Modelos de linguagem,Médio,3.74,6.9
+Baidu,Tecnologia,China,2019,2290.86,Robótica,Médio,6.71,6.7
+Baidu,Tecnologia,China,2020,1752.84,Modelos de linguagem,Médio,5.99,7.0
+Baidu,Tecnologia,China,2021,1962.89,Nuvem com IA,Alto,10.71,9.4
+Baidu,Tecnologia,China,2022,2499.14,Robótica,Alto,13.19,9.6
+Baidu,Tecnologia,China,2023,1399.3,Robótica,Alto,12.56,9.6
+Baidu,Tecnologia,China,2024,1200.41,Nuvem com IA,Baixo,-0.47,5.0
+Salesforce,Tecnologia,EUA,2015,1073.7,Nuvem com IA,Médio,6.09,7.4
+Salesforce,Tecnologia,EUA,2016,2158.53,Modelos de linguagem,Alto,8.75,8.1
+Salesforce,Tecnologia,EUA,2017,2107.08,Nuvem com IA,Alto,14.64,9.5
+Salesforce,Tecnologia,EUA,2018,1055.81,Nuvem com IA,Alto,5.29,9.6
+Salesforce,Tecnologia,EUA,2019,1446.4,Nuvem com IA,Alto,8.49,9.2
+Salesforce,Tecnologia,EUA,2020,1388.42,Robótica,Médio,2.88,7.6
+Salesforce,Tecnologia,EUA,2021,1703.51,Modelos de linguagem,Alto,8.96,8.1
+Salesforce,Tecnologia,EUA,2022,623.62,Modelos de linguagem,Alto,9.32,9.5
+Salesforce,Tecnologia,EUA,2023,2164.57,Modelos de linguagem,Alto,12.81,9.9
+Salesforce,Tecnologia,EUA,2024,894.31,Modelos de linguagem,Alto,6.31,8.3
+Siemens,Engenharia,Alemanha,2015,326.51,Automação industrial,Alto,12.26,9.8
+Siemens,Engenharia,Alemanha,2016,227.1,Automação industrial,Médio,4.99,7.3
+Siemens,Engenharia,Alemanha,2017,218.15,Controle inteligente,Alto,7.53,8.7
+Siemens,Engenharia,Alemanha,2018,360.1,Automação industrial,Alto,7.45,9.7
+Siemens,Engenharia,Alemanha,2019,326.8,Automação industrial,Médio,6.87,6.6
+Siemens,Engenharia,Alemanha,2020,129.32,Controle inteligente,Alto,13.05,8.1
+Siemens,Engenharia,Alemanha,2021,134.57,Controle inteligente,Médio,5.6,7.4
+Siemens,Engenharia,Alemanha,2022,130.16,Controle inteligente,Alto,6.82,9.1
+Siemens,Engenharia,Alemanha,2023,260.47,Controle inteligente,Baixo,2.18,5.1
+Siemens,Engenharia,Alemanha,2024,148.95,Controle inteligente,Alto,6.14,9.0
+Toyota,Automotivo,Japão,2015,676.52,Carros autônomos,Alto,11.77,8.5
+Toyota,Automotivo,Japão,2016,260.08,Manutenção preditiva,Médio,6.74,6.2
+Toyota,Automotivo,Japão,2017,411.51,Manutenção preditiva,Alto,14.02,8.3
+Toyota,Automotivo,Japão,2018,461.56,Manutenção preditiva,Alto,13.5,9.4
+Toyota,Automotivo,Japão,2019,991.2,Manutenção preditiva,Baixo,1.98,4.2
+Toyota,Automotivo,Japão,2020,719.5,Carros autônomos,Alto,7.5,8.7
+Toyota,Automotivo,Japão,2021,864.44,Carros autônomos,Alto,5.95,9.3
+Toyota,Automotivo,Japão,2022,977.84,Carros autônomos,Médio,2.8,7.7
+Toyota,Automotivo,Japão,2023,654.84,Manutenção preditiva,Alto,7.59,8.9
+Toyota,Automotivo,Japão,2024,307.95,Carros autônomos,Alto,5.3,9.6
+Honda,Automotivo,Japão,2015,459.19,Manutenção preditiva,Alto,7.37,8.4
+Honda,Automotivo,Japão,2016,920.79,Carros autônomos,Médio,2.84,6.6
+Honda,Automotivo,Japão,2017,876.67,Carros autônomos,Alto,14.9,8.9
+Honda,Automotivo,Japão,2018,917.51,Manutenção preditiva,Médio,2.35,7.1
+Honda,Automotivo,Japão,2019,793.88,Manutenção preditiva,Alto,11.86,9.4
+Honda,Automotivo,Japão,2020,909.05,Manutenção preditiva,Médio,5.79,7.2
+Honda,Automotivo,Japão,2021,393.43,Carros autônomos,Alto,7.62,9.5
+Honda,Automotivo,Japão,2022,847.68,Carros autônomos,Alto,11.63,9.5
+Honda,Automotivo,Japão,2023,917.21,Carros autônomos,Médio,2.36,6.2
+Honda,Automotivo,Japão,2024,501.09,Carros autônomos,Alto,14.68,9.3
+Ambev,Alimentos/Bebidas,Brasil,2015,139.14,Otimização de produção,Baixo,-1.24,4.8
+Ambev,Alimentos/Bebidas,Brasil,2016,207.86,Otimização de produção,Baixo,0.83,6.0
+Ambev,Alimentos/Bebidas,Brasil,2017,103.63,Otimização de produção,Médio,2.6,7.9
+Ambev,Alimentos/Bebidas,Brasil,2018,111.99,Otimização de produção,Alto,9.02,9.0
+Ambev,Alimentos/Bebidas,Brasil,2019,207.34,Otimização de produção,Médio,4.3,6.7
+Ambev,Alimentos/Bebidas,Brasil,2020,243.85,Otimização de produção,Alto,7.25,8.7
+Ambev,Alimentos/Bebidas,Brasil,2021,52.61,Previsão de demanda,Alto,8.89,8.1
+Ambev,Alimentos/Bebidas,Brasil,2022,104.55,Previsão de demanda,Alto,6.49,9.7
+Ambev,Alimentos/Bebidas,Brasil,2023,195.13,Otimização de produção,Médio,2.31,6.1
+Ambev,Alimentos/Bebidas,Brasil,2024,80.23,Otimização de produção,Médio,4.96,8.0
+Itaú,Financeiro,Brasil,2015,692.91,Chatbots financeiros,Médio,5.31,7.8
+Itaú,Financeiro,Brasil,2016,553.88,Chatbots financeiros,Alto,12.41,8.2
+Itaú,Financeiro,Brasil,2017,485.27,Chatbots financeiros,Baixo,2.91,4.6
+Itaú,Financeiro,Brasil,2018,461.42,Fraude e risco,Alto,7.16,8.9
+Itaú,Financeiro,Brasil,2019,728.78,Chatbots financeiros,Alto,10.92,8.5
+Itaú,Financeiro,Brasil,2020,638.34,Chatbots financeiros,Alto,13.82,8.1
+Itaú,Financeiro,Brasil,2021,488.05,Fraude e risco,Médio,4.78,8.0
+Itaú,Financeiro,Brasil,2022,413.62,Chatbots financeiros,Médio,5.8,7.4
+Itaú,Financeiro,Brasil,2023,539.98,Chatbots financeiros,Alto,10.28,8.8
+Itaú,Financeiro,Brasil,2024,429.56,Chatbots financeiros,Baixo,1.49,5.5
+Bradesco,Financeiro,Brasil,2015,237.34,Chatbots financeiros,Alto,14.8,9.6
+Bradesco,Financeiro,Brasil,2016,682.58,Fraude e risco,Alto,9.14,8.5
+Bradesco,Financeiro,Brasil,2017,734.81,Fraude e risco,Alto,8.22,8.1
+Bradesco,Financeiro,Brasil,2018,397.71,Chatbots financeiros,Médio,6.37,7.0
+Bradesco,Financeiro,Brasil,2019,418.6,Fraude e risco,Alto,7.48,8.6
+Bradesco,Financeiro,Brasil,2020,446.62,Chatbots financeiros,Alto,5.75,9.5
+Bradesco,Financeiro,Brasil,2021,207.22,Fraude e risco,Médio,6.42,6.5
+Bradesco,Financeiro,Brasil,2022,674.79,Fraude e risco,Baixo,1.47,5.7
+Bradesco,Financeiro,Brasil,2023,275.39,Fraude e risco,Médio,3.23,6.2
+Bradesco,Financeiro,Brasil,2024,345.92,Chatbots financeiros,Alto,10.38,9.2
+Petrobras,Energia,Brasil,2015,366.54,Monitoramento de consumo,Alto,12.41,9.9
+Petrobras,Energia,Brasil,2016,464.16,IA em prospecção,Baixo,0.15,4.0
+Petrobras,Energia,Brasil,2017,160.15,IA em prospecção,Médio,2.46,6.6
+Petrobras,Energia,Brasil,2018,289.29,IA em prospecção,Alto,12.23,9.1
+Petrobras,Energia,Brasil,2019,314.88,IA em prospecção,Médio,5.29,8.0
+Petrobras,Energia,Brasil,2020,148.63,Monitoramento de consumo,Alto,10.45,8.5
+Petrobras,Energia,Brasil,2021,240.99,Monitoramento de consumo,Alto,7.87,9.1
+Petrobras,Energia,Brasil,2022,377.17,IA em prospecção,Alto,6.92,9.1
+Petrobras,Energia,Brasil,2023,457.76,IA em prospecção,Médio,6.79,7.1
+Petrobras,Energia,Brasil,2024,312.14,Monitoramento de consumo,Médio,4.43,7.7
+Vale,Mineração,Brasil,2015,257.95,Geoprocessamento com IA,Médio,6.72,7.7
+Vale,Mineração,Brasil,2016,261.31,Geoprocessamento com IA,Médio,3.9,7.6
+Vale,Mineração,Brasil,2017,198.46,Detecção de falhas,Alto,12.92,9.8
+Vale,Mineração,Brasil,2018,133.36,Geoprocessamento com IA,Alto,7.46,9.0
+Vale,Mineração,Brasil,2019,260.89,Geoprocessamento com IA,Baixo,1.77,5.3
+Vale,Mineração,Brasil,2020,213.17,Detecção de falhas,Alto,6.32,9.2
+Vale,Mineração,Brasil,2021,164.57,Detecção de falhas,Médio,3.88,6.2
+Vale,Mineração,Brasil,2022,148.65,Geoprocessamento com IA,Médio,2.33,6.2
+Vale,Mineração,Brasil,2023,268.18,Geoprocessamento com IA,Alto,14.03,8.9
+Vale,Mineração,Brasil,2024,240.14,Detecção de falhas,Alto,5.53,8.1
+Santander,Financeiro,Espanha,2015,441.77,Chatbots financeiros,Alto,10.24,9.7
+Santander,Financeiro,Espanha,2016,639.54,Chatbots financeiros,Médio,3.69,7.4
+Santander,Financeiro,Espanha,2017,230.02,Fraude e risco,Alto,8.68,8.9
+Santander,Financeiro,Espanha,2018,241.89,Chatbots financeiros,Médio,3.36,7.3
+Santander,Financeiro,Espanha,2019,307.97,Chatbots financeiros,Alto,14.72,8.7
+Santander,Financeiro,Espanha,2020,518.94,Fraude e risco,Médio,2.9,7.0
+Santander,Financeiro,Espanha,2021,364.53,Chatbots financeiros,Baixo,-0.74,5.2
+Santander,Financeiro,Espanha,2022,154.64,Chatbots financeiros,Alto,5.37,8.5
+Santander,Financeiro,Espanha,2023,510.25,Chatbots financeiros,Alto,5.75,8.5
+Santander,Financeiro,Espanha,2024,552.35,Chatbots financeiros,Alto,8.06,8.7
+Unilever,Bens de Consumo,Reino Unido/Holanda,2015,241.72,Marketing preditivo,Alto,6.68,8.2
+Unilever,Bens de Consumo,Reino Unido/Holanda,2016,93.74,Gestão da cadeia com IA,Alto,7.31,9.0
+Unilever,Bens de Consumo,Reino Unido/Holanda,2017,228.54,Marketing preditivo,Médio,5.67,7.7
+Unilever,Bens de Consumo,Reino Unido/Holanda,2018,194.39,Gestão da cadeia com IA,Médio,4.56,6.2
+Unilever,Bens de Consumo,Reino Unido/Holanda,2019,146.31,Gestão da cadeia com IA,Alto,9.36,8.3
+Unilever,Bens de Consumo,Reino Unido/Holanda,2020,229.92,Gestão da cadeia com IA,Médio,6.09,6.1
+Unilever,Bens de Consumo,Reino Unido/Holanda,2021,177.48,Gestão da cadeia com IA,Alto,9.57,8.0
+Unilever,Bens de Consumo,Reino Unido/Holanda,2022,163.07,Marketing preditivo,Médio,3.16,6.9
+Unilever,Bens de Consumo,Reino Unido/Holanda,2023,265.34,Marketing preditivo,Alto,5.63,8.8
+Unilever,Bens de Consumo,Reino Unido/Holanda,2024,171.12,Marketing preditivo,Médio,2.32,6.0
